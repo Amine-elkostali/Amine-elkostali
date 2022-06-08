@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amine-elkostali
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning some IOT stuff
-- 💞️ I’m looking to collaborate on some datascience projectS
+- 👀 I’m interested in Data analytics, Data engineering 
+- 🌱 I’m currently learning working on some Data engineering staff
+- 💞️ I’m looking to collaborate on some innovation projects
 - 📫 How to reach me : look at my profil on Linkedin
 
 <!---
